@@ -1,2 +1,2 @@
-# Puzzle-1
-A simple problem - Fans of a baseball match
+# Puzzles
+Using codes to solve puzzles
